@@ -12,7 +12,7 @@ A collection of **ready-to-use HTML & CSS snippets** for modern web development.
 ## 📂 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/El-Shadow-Academy/Fast-Snippets-HTML-CSS.git
+   https://github.com/ShadowAcademySnippets/-Fast-Snippets-HTML-CSS.git
    ```
 2. Open the files in your favorite code editor.
 3. Copy and integrate the snippets into your project.
